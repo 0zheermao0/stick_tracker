@@ -1,0 +1,13 @@
+train: /root/exp/stick_crossing/yolo_stick_dataset/train/images
+val: /root/exp/stick_crossing/yolo_stick_dataset/valid/images
+test: /root/exp/stick_crossing/yolo_stick_dataset/test/images
+
+nc: 1
+names: ['stick']
+
+roboflow:
+  workspace: north-eastern-university
+  project: stick_track
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/north-eastern-university/stick_track/dataset/1

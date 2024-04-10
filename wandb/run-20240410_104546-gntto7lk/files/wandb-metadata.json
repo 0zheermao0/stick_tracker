@@ -1,0 +1,182 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2024-04-10T02:45:48.198642",
+    "startedAt": "2024-04-10T02:45:46.686888",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/root/exp/stick_crossing/train_stick_object_detect.py",
+    "codePathLocal": "train_stick_object_detect.py",
+    "codePath": "train_stick_object_detect.py",
+    "host": "JoeyLab",
+    "username": "root",
+    "executable": "/root/anaconda3/envs/fresh_pytorch/bin/python",
+    "cpu_count": 14,
+    "cpu_count_logical": 28,
+    "cpu_freq": {
+        "current": 3417.5979999999986,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3417.598,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 160.00034713745117
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080",
+            "memory_total": 17171480576
+        }
+    ],
+    "memory": {
+        "total": 54.92057800292969
+    }
+}
